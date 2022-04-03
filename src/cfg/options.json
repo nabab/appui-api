@@ -1,0 +1,14 @@
+{
+  "cfg": {
+    "show_code": 1,
+    "allow_children": 1,
+    "show_icon": 1,
+    "i18n": "en"
+  },
+  "id_parent": ["appui"],
+  "text": "API",
+  "code": "api",
+  "icon": "nf nf-mdi-lan_connect",
+  "id_alias": ["plugin", "list", "templates", "option", "appui"],
+  "plugin": true
+}
