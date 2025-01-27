@@ -56,4 +56,3 @@ github-sync:       # This job runs in the build stage, which runs first.
     - echo "Github synching finished !"
   tags:
     - github
-
